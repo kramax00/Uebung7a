@@ -24,3 +24,7 @@ Uebung7
 |Deutschland|Berlin|Deutsch|
 |Frankreich|Paris|Französisch|
 |Italien|Rom|Italienisch|
+
+*Dieser Satz wird kursiv geschrieben*
+**Dieser Satz wird fett geschrieben**
+
