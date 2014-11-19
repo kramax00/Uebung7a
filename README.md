@@ -26,5 +26,6 @@ Uebung7
 |Italien|Rom|Italienisch|
 
 *Dieser Satz wird kursiv geschrieben*
+
 **Dieser Satz wird fett geschrieben**
 
