@@ -16,6 +16,8 @@ Uebung7
  * Black Metal
  * Power Metal
  * etc.
+  
+ 
 |Land| Hauptstadt| Sprache|
 |:------|:----:| --------:| 
 |Schweiz| Bern| Deutsch/Französisch/Italienisch|
